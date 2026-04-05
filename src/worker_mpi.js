@@ -16,13 +16,17 @@ async function runWorker() {
     
     console.log(`Worker ${rank}: Verifying ${myBatch.length} credentials...`);
 
-    for (const vc of myBatch) {
-        try {
-            await agent.verifyCredential({ credential: vc });
-        } catch (e) {
-            // Ignore errors in benchmark for speed
-        }
+    // --- TASK PARALLELISM START ---
+    // Ek saath 50 credentials verify karo (Batching)
+    const BATCH_SIZE = 50; 
+    for (let i = 0; i < myBatch.length; i += BATCH_SIZE) {
+        const batch = myBatch.slice(i, i + BATCH_SIZE);
+        await Promise.all(batch.map(vc => 
+            agent.verifyCredential({ credential: vc }).catch(e => {})
+        ));
     }
+    // --- TASK PARALLELISM END ---
+
     process.exit(0);
 }
 
