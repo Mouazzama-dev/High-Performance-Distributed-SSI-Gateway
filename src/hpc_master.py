@@ -33,7 +33,8 @@ start_time = time.time()
 
 # 4. Run Node.js Worker
 # We use 'node' to run our worker script with the assigned range
-subprocess.run(['node', 'worker_mpi.js', str(start_idx), str(end_idx), str(rank)])
+# subprocess.run(['node', 'worker_mpi.js', str(start_idx), str(end_idx), str(rank)])
+subprocess.run(['/home/user/.bun/bin/bun', 'run', 'worker_mpi.js', str(start_idx), str(end_idx), str(rank)])
 
 # 5. Synchronize end time
 comm.Barrier()
