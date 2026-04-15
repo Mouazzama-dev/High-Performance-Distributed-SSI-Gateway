@@ -1,0 +1,2502 @@
+[
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "ROTATE"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "CUT"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "cnc-lathe-01",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_DOWN"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_OFF"
+  },
+  {
+    "opAlias": "operator-elena",
+    "devAlias": "welding-robot-09",
+    "action": "MOVE_UP"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  },
+  {
+    "opAlias": "operator-marco",
+    "devAlias": "welding-robot-09",
+    "action": "SWITCH_ON"
+  }
+]
