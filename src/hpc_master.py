@@ -1,50 +1,50 @@
-# dividing workload and trigger workers in parallel using MPI
-
 from mpi4py import MPI
 import subprocess
+import math
 import time
-import json
-import os
 
 comm = MPI.COMM_WORLD
 rank = comm.Get_rank()
 size = comm.Get_size()
 
-# 1. Rank 0 calculates the split
+# 🔴 IMPORTANT: apna sequential time yahan daalo
+SEQUENTIAL_TIME = 244.861   # tumhara measured value
+
+TOTAL = 500
+chunk = math.ceil(TOTAL / size)
+
+start_idx = rank * chunk
+end_idx = min(start_idx + chunk, TOTAL)
+
+# 🔥 START TIMER (only rank 0)
 if rank == 0:
-    with open('credentials.json', 'r') as f:
-        data = json.load(f)
-    total_vcs = len(data)
-    print(f" Master: Distributing {total_vcs} VCs across {size} cores...")
-else:
-    total_vcs = None
+    start_time = time.time()
 
-# Broadcast total count to all ranks
-total_vcs = comm.bcast(total_vcs, root=0)
+# Run worker
+subprocess.run([
+    "node",
+    "worker.js",
+    str(start_idx),
+    str(end_idx),
+    str(rank)
+])
 
-# 2. Assign Batch
-per_rank = total_vcs // size
-start_idx = rank * per_rank
-end_idx = (rank + 1) * per_rank if rank != size - 1 else total_vcs
-
-# 3. Synchronize start time
+# Wait for all processes
 comm.Barrier()
-start_time = time.time()
 
-# 4. Run Node.js Worker
-# We use 'node' to run our worker script with the assigned range
-# subprocess.run(['node', 'worker_mpi.js', str(start_idx), str(end_idx), str(rank)])
-subprocess.run(['/home/user/.bun/bin/bun', 'run', 'worker_mpi.js', str(start_idx), str(end_idx), str(rank)])
-
-# 5. Synchronize end time
-comm.Barrier()
-end_time = time.time()
-
+# 🔥 END TIMER + ANALYSIS
 if rank == 0:
-    total_duration = end_time - start_time
-    print("\n" + "="*40)
-    print(f" MPI PARALLEL REPORT ({size} Cores)")
-    print(f"Total Time: {total_duration:.3f} seconds")
-    print(f"Sequential was: 39.733 seconds")
-    print(f"Estimated Speedup: {39.733 / total_duration:.2f}x")
-    print("="*40)
+    end_time = time.time()
+    parallel_time = end_time - start_time
+
+    # 🔥 Calculations
+    speedup = SEQUENTIAL_TIME / parallel_time
+    efficiency = speedup / size
+
+    print("\n========================================")
+    print(f"MPI PARALLEL REPORT ({size} Cores)")
+    print(f"Sequential Time : {round(SEQUENTIAL_TIME, 3)} sec")
+    print(f"Parallel Time   : {round(parallel_time, 3)} sec")
+    print(f"Speedup         : {round(speedup, 3)}x")
+    print(f"Efficiency      : {round(efficiency * 100, 2)}%")
+    print("========================================\n")

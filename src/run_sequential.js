@@ -72,7 +72,7 @@ async function addToBatch(opDid, devDid, action) {
 }
 
 // 🔹 Main Operation
-async function runOperation(opAlias, devAlias, action) {
+export async function runOperation(opAlias, devAlias, action) {
   const operator = await agent.didManagerGetByAlias({ alias: opAlias });
   const device = await agent.didManagerGetByAlias({ alias: devAlias });
   const admin = await agent.didManagerGetByAlias({ alias: 'factory-admin' });
@@ -152,4 +152,4 @@ async function runSequentialFull() {
   console.log('========================================\n');
 }
 
-runSequentialFull();
+export { runSequentialFull };
