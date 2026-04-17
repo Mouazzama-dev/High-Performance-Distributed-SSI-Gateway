@@ -8,7 +8,7 @@ rank = comm.Get_rank()
 size = comm.Get_size()
 
 # 🔴 IMPORTANT: apna sequential time yahan daalo
-SEQUENTIAL_TIME = 244.861   # tumhara measured value
+SEQUENTIAL_TIME = 164   # tumhara measured value
 
 TOTAL = 500
 chunk = math.ceil(TOTAL / size)
