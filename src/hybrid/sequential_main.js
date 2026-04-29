@@ -1,3 +1,3 @@
-import { runSequentialFull } from './hybrid/run_sequential.js';
+import { runSequentialFull } from './run_sequential.js';
 
 runSequentialFull();
