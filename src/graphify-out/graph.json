@@ -1,0 +1,526 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "run_sequential_time.js",
+      "file_type": "code",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/run_sequential_time.js",
+      "source_location": "L1",
+      "id": "home_user_documents_masters_hpc_project_veramo_poc_src_run_sequential_time_js",
+      "community": 4,
+      "norm_label": "run_sequential_time.js"
+    },
+    {
+      "label": "executeSequential()",
+      "file_type": "code",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/run_sequential_time.js",
+      "source_location": "L3",
+      "id": "run_sequential_time_executesequential",
+      "community": 4,
+      "norm_label": "executesequential()"
+    },
+    {
+      "label": "sequential_main.js",
+      "file_type": "code",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/sequential_main.js",
+      "source_location": "L1",
+      "id": "home_user_documents_masters_hpc_project_veramo_poc_src_sequential_main_js",
+      "community": 7,
+      "norm_label": "sequential_main.js"
+    },
+    {
+      "label": "generate_workload.js",
+      "file_type": "code",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/generate_workload.js",
+      "source_location": "L1",
+      "id": "home_user_documents_masters_hpc_project_veramo_poc_src_generate_workload_js",
+      "community": 1,
+      "norm_label": "generate_workload.js"
+    },
+    {
+      "label": "randomItem()",
+      "file_type": "code",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/generate_workload.js",
+      "source_location": "L31",
+      "id": "generate_workload_randomitem",
+      "community": 1,
+      "norm_label": "randomitem()"
+    },
+    {
+      "label": "generateWorkload()",
+      "file_type": "code",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/generate_workload.js",
+      "source_location": "L35",
+      "id": "generate_workload_generateworkload",
+      "community": 1,
+      "norm_label": "generateworkload()"
+    },
+    {
+      "label": "generate-bulk-data.js",
+      "file_type": "code",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/generate-bulk-data.js",
+      "source_location": "L1",
+      "id": "home_user_documents_masters_hpc_project_veramo_poc_src_generate_bulk_data_js",
+      "community": 5,
+      "norm_label": "generate-bulk-data.js"
+    },
+    {
+      "label": "generateWorkload()",
+      "file_type": "code",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/generate-bulk-data.js",
+      "source_location": "L6",
+      "id": "generate_bulk_data_generateworkload",
+      "community": 5,
+      "norm_label": "generateworkload()"
+    },
+    {
+      "label": "hpc_master.py",
+      "file_type": "code",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/hpc_master.py",
+      "source_location": "L1",
+      "id": "home_user_documents_masters_hpc_project_veramo_poc_src_hpc_master_py",
+      "community": 8,
+      "norm_label": "hpc_master.py"
+    },
+    {
+      "label": "run_data_parallel.js",
+      "file_type": "code",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/run_data_parallel.js",
+      "source_location": "L1",
+      "id": "home_user_documents_masters_hpc_project_veramo_poc_src_run_data_parallel_js",
+      "community": 9,
+      "norm_label": "run_data_parallel.js"
+    },
+    {
+      "label": "setup_factory.js",
+      "file_type": "code",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/setup_factory.js",
+      "source_location": "L1",
+      "id": "home_user_documents_masters_hpc_project_veramo_poc_src_setup_factory_js",
+      "community": 2,
+      "norm_label": "setup_factory.js"
+    },
+    {
+      "label": "getOrCreateAlias()",
+      "file_type": "code",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/setup_factory.js",
+      "source_location": "L16",
+      "id": "setup_factory_getorcreatealias",
+      "community": 2,
+      "norm_label": "getorcreatealias()"
+    },
+    {
+      "label": "setupFactory()",
+      "file_type": "code",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/setup_factory.js",
+      "source_location": "L27",
+      "id": "setup_factory_setupfactory",
+      "community": 2,
+      "norm_label": "setupfactory()"
+    },
+    {
+      "label": "worker.js",
+      "file_type": "code",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/worker.js",
+      "source_location": "L1",
+      "id": "home_user_documents_masters_hpc_project_veramo_poc_src_worker_js",
+      "community": 3,
+      "norm_label": "worker.js"
+    },
+    {
+      "label": "run()",
+      "file_type": "code",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/worker.js",
+      "source_location": "L11",
+      "id": "worker_run",
+      "community": 3,
+      "norm_label": "run()"
+    },
+    {
+      "label": "run_sequential.js",
+      "file_type": "code",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/run_sequential.js",
+      "source_location": "L1",
+      "id": "home_user_documents_masters_hpc_project_veramo_poc_src_run_sequential_js",
+      "community": 0,
+      "norm_label": "run_sequential.js"
+    },
+    {
+      "label": "sendBatchToBlockchain()",
+      "file_type": "code",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/run_sequential.js",
+      "source_location": "L31",
+      "id": "run_sequential_sendbatchtoblockchain",
+      "community": 0,
+      "norm_label": "sendbatchtoblockchain()"
+    },
+    {
+      "label": "getKey()",
+      "file_type": "code",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/run_sequential.js",
+      "source_location": "L64",
+      "id": "run_sequential_getkey",
+      "community": 0,
+      "norm_label": "getkey()"
+    },
+    {
+      "label": "addToBatch()",
+      "file_type": "code",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/run_sequential.js",
+      "source_location": "L68",
+      "id": "run_sequential_addtobatch",
+      "community": 0,
+      "norm_label": "addtobatch()"
+    },
+    {
+      "label": "runOperation()",
+      "file_type": "code",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/run_sequential.js",
+      "source_location": "L88",
+      "id": "run_sequential_runoperation",
+      "community": 0,
+      "norm_label": "runoperation()"
+    },
+    {
+      "label": "waitForAllTx()",
+      "file_type": "code",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/run_sequential.js",
+      "source_location": "L118",
+      "id": "run_sequential_waitforalltx",
+      "community": 3,
+      "norm_label": "waitforalltx()"
+    },
+    {
+      "label": "runSequentialFull()",
+      "file_type": "code",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/run_sequential.js",
+      "source_location": "L126",
+      "id": "run_sequential_runsequentialfull",
+      "community": 0,
+      "norm_label": "runsequentialfull()"
+    },
+    {
+      "label": "benchmark_sequential.js",
+      "file_type": "code",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/benchmark_sequential.js",
+      "source_location": "L1",
+      "id": "home_user_documents_masters_hpc_project_veramo_poc_src_benchmark_sequential_js",
+      "community": 6,
+      "norm_label": "benchmark_sequential.js"
+    },
+    {
+      "label": "runSequential()",
+      "file_type": "code",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/benchmark_sequential.js",
+      "source_location": "L4",
+      "id": "benchmark_sequential_runsequential",
+      "community": 6,
+      "norm_label": "runsequential()"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/run_sequential_time.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "home_user_documents_masters_hpc_project_veramo_poc_src_run_sequential_time_js",
+      "_tgt": "run_sequential_time_executesequential",
+      "source": "home_user_documents_masters_hpc_project_veramo_poc_src_run_sequential_time_js",
+      "target": "run_sequential_time_executesequential",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/run_sequential_time.js",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_src": "run_sequential_time_executesequential",
+      "_tgt": "run_sequential_runsequentialfull",
+      "source": "run_sequential_time_executesequential",
+      "target": "run_sequential_runsequentialfull"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/generate_workload.js",
+      "source_location": "L31",
+      "weight": 1.0,
+      "_src": "home_user_documents_masters_hpc_project_veramo_poc_src_generate_workload_js",
+      "_tgt": "generate_workload_randomitem",
+      "source": "home_user_documents_masters_hpc_project_veramo_poc_src_generate_workload_js",
+      "target": "generate_workload_randomitem",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/generate_workload.js",
+      "source_location": "L35",
+      "weight": 1.0,
+      "_src": "home_user_documents_masters_hpc_project_veramo_poc_src_generate_workload_js",
+      "_tgt": "generate_workload_generateworkload",
+      "source": "home_user_documents_masters_hpc_project_veramo_poc_src_generate_workload_js",
+      "target": "generate_workload_generateworkload",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/generate_workload.js",
+      "source_location": "L41",
+      "weight": 1.0,
+      "_src": "generate_workload_generateworkload",
+      "_tgt": "generate_workload_randomitem",
+      "source": "generate_workload_randomitem",
+      "target": "generate_workload_generateworkload",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/generate-bulk-data.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "home_user_documents_masters_hpc_project_veramo_poc_src_generate_bulk_data_js",
+      "_tgt": "generate_bulk_data_generateworkload",
+      "source": "home_user_documents_masters_hpc_project_veramo_poc_src_generate_bulk_data_js",
+      "target": "generate_bulk_data_generateworkload",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/setup_factory.js",
+      "source_location": "L16",
+      "weight": 1.0,
+      "_src": "home_user_documents_masters_hpc_project_veramo_poc_src_setup_factory_js",
+      "_tgt": "setup_factory_getorcreatealias",
+      "source": "home_user_documents_masters_hpc_project_veramo_poc_src_setup_factory_js",
+      "target": "setup_factory_getorcreatealias",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/setup_factory.js",
+      "source_location": "L27",
+      "weight": 1.0,
+      "_src": "home_user_documents_masters_hpc_project_veramo_poc_src_setup_factory_js",
+      "_tgt": "setup_factory_setupfactory",
+      "source": "home_user_documents_masters_hpc_project_veramo_poc_src_setup_factory_js",
+      "target": "setup_factory_setupfactory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/setup_factory.js",
+      "source_location": "L28",
+      "weight": 1.0,
+      "_src": "setup_factory_setupfactory",
+      "_tgt": "setup_factory_getorcreatealias",
+      "source": "setup_factory_getorcreatealias",
+      "target": "setup_factory_setupfactory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/worker.js",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_src": "home_user_documents_masters_hpc_project_veramo_poc_src_worker_js",
+      "_tgt": "worker_run",
+      "source": "home_user_documents_masters_hpc_project_veramo_poc_src_worker_js",
+      "target": "worker_run",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/worker.js",
+      "source_location": "L15",
+      "weight": 1.0,
+      "_src": "worker_run",
+      "_tgt": "run_sequential_runoperation",
+      "source": "worker_run",
+      "target": "run_sequential_runoperation"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/worker.js",
+      "source_location": "L20",
+      "weight": 1.0,
+      "_src": "worker_run",
+      "_tgt": "run_sequential_waitforalltx",
+      "source": "worker_run",
+      "target": "run_sequential_waitforalltx"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/run_sequential.js",
+      "source_location": "L31",
+      "weight": 1.0,
+      "_src": "home_user_documents_masters_hpc_project_veramo_poc_src_run_sequential_js",
+      "_tgt": "run_sequential_sendbatchtoblockchain",
+      "source": "home_user_documents_masters_hpc_project_veramo_poc_src_run_sequential_js",
+      "target": "run_sequential_sendbatchtoblockchain",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/run_sequential.js",
+      "source_location": "L64",
+      "weight": 1.0,
+      "_src": "home_user_documents_masters_hpc_project_veramo_poc_src_run_sequential_js",
+      "_tgt": "run_sequential_getkey",
+      "source": "home_user_documents_masters_hpc_project_veramo_poc_src_run_sequential_js",
+      "target": "run_sequential_getkey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/run_sequential.js",
+      "source_location": "L68",
+      "weight": 1.0,
+      "_src": "home_user_documents_masters_hpc_project_veramo_poc_src_run_sequential_js",
+      "_tgt": "run_sequential_addtobatch",
+      "source": "home_user_documents_masters_hpc_project_veramo_poc_src_run_sequential_js",
+      "target": "run_sequential_addtobatch",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/run_sequential.js",
+      "source_location": "L88",
+      "weight": 1.0,
+      "_src": "home_user_documents_masters_hpc_project_veramo_poc_src_run_sequential_js",
+      "_tgt": "run_sequential_runoperation",
+      "source": "home_user_documents_masters_hpc_project_veramo_poc_src_run_sequential_js",
+      "target": "run_sequential_runoperation",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/run_sequential.js",
+      "source_location": "L118",
+      "weight": 1.0,
+      "_src": "home_user_documents_masters_hpc_project_veramo_poc_src_run_sequential_js",
+      "_tgt": "run_sequential_waitforalltx",
+      "source": "home_user_documents_masters_hpc_project_veramo_poc_src_run_sequential_js",
+      "target": "run_sequential_waitforalltx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/run_sequential.js",
+      "source_location": "L126",
+      "weight": 1.0,
+      "_src": "home_user_documents_masters_hpc_project_veramo_poc_src_run_sequential_js",
+      "_tgt": "run_sequential_runsequentialfull",
+      "source": "home_user_documents_masters_hpc_project_veramo_poc_src_run_sequential_js",
+      "target": "run_sequential_runsequentialfull",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/run_sequential.js",
+      "source_location": "L79",
+      "weight": 1.0,
+      "_src": "run_sequential_addtobatch",
+      "_tgt": "run_sequential_sendbatchtoblockchain",
+      "source": "run_sequential_sendbatchtoblockchain",
+      "target": "run_sequential_addtobatch",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/run_sequential.js",
+      "source_location": "L142",
+      "weight": 1.0,
+      "_src": "run_sequential_runsequentialfull",
+      "_tgt": "run_sequential_sendbatchtoblockchain",
+      "source": "run_sequential_sendbatchtoblockchain",
+      "target": "run_sequential_runsequentialfull",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/run_sequential.js",
+      "source_location": "L69",
+      "weight": 1.0,
+      "_src": "run_sequential_addtobatch",
+      "_tgt": "run_sequential_getkey",
+      "source": "run_sequential_getkey",
+      "target": "run_sequential_addtobatch",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/run_sequential.js",
+      "source_location": "L112",
+      "weight": 1.0,
+      "_src": "run_sequential_runoperation",
+      "_tgt": "run_sequential_addtobatch",
+      "source": "run_sequential_addtobatch",
+      "target": "run_sequential_runoperation",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/run_sequential.js",
+      "source_location": "L134",
+      "weight": 1.0,
+      "_src": "run_sequential_runsequentialfull",
+      "_tgt": "run_sequential_runoperation",
+      "source": "run_sequential_runoperation",
+      "target": "run_sequential_runsequentialfull",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/run_sequential.js",
+      "source_location": "L147",
+      "weight": 1.0,
+      "_src": "run_sequential_runsequentialfull",
+      "_tgt": "run_sequential_waitforalltx",
+      "source": "run_sequential_waitforalltx",
+      "target": "run_sequential_runsequentialfull",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/user/Documents/Masters/HPC Project/veramo-poc/src/benchmark_sequential.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_src": "home_user_documents_masters_hpc_project_veramo_poc_src_benchmark_sequential_js",
+      "_tgt": "benchmark_sequential_runsequential",
+      "source": "home_user_documents_masters_hpc_project_veramo_poc_src_benchmark_sequential_js",
+      "target": "benchmark_sequential_runsequential",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}
