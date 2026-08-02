@@ -62,7 +62,7 @@ def run_hpc_master(ranks, threads_per_rank, total_workload, sequential_time, ski
         env["SKIP_CHAIN"] = "1"
 
     out = subprocess.run(
-        ["mpiexec", "-n", str(ranks), sys.executable, "hpc_master.py"],
+        ["mpiexec", "--oversubscribe", "-n", str(ranks), sys.executable, "hpc_master.py"],
         cwd=HYBRID_DIR, env=env, capture_output=True, text=True,
     )
     match = PARALLEL_TIME_RE.search(out.stdout)
