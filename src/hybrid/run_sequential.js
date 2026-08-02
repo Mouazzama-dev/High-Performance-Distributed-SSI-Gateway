@@ -29,6 +29,11 @@ const txPromises = [];
 // BLOCKCHAIN WITH RETRIES
 // -----------------------------
 async function sendBatchToBlockchain(opDid, devDid, batch) {
+  if (process.env.SKIP_CHAIN === '1') {
+    console.log(`⏭️  [SKIP_CHAIN] Would send batch (${batch.length}) → ${opDid}`);
+    return;
+  }
+
   const MAX_RETRIES = 5;
   let attempt = 0;
 
@@ -125,12 +130,14 @@ export async function waitForAllTx() {
 // -----------------------------
 export async function runSequentialFull() {
   const workload = JSON.parse(fs.readFileSync('workload.json', 'utf8'));
+  const total = process.env.TOTAL_WORKLOAD ? parseInt(process.env.TOTAL_WORKLOAD, 10) : workload.length;
+  const items = workload.slice(0, total);
 
-  console.log(`🚀 Sequential run (${workload.length})`);
+  console.log(`🚀 Sequential run (${items.length})`);
 
   const start = Date.now();
 
-  for (let op of workload) {
+  for (let op of items) {
     await runOperation(op.opAlias, op.devAlias, op.action);
   }
 

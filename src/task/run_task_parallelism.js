@@ -29,6 +29,11 @@ async function getNextNonce(wallet) {
 }
 
 export async function sendBatchToBlockchain(opDid, devDid, batch) {
+  if (process.env.SKIP_CHAIN === '1') {
+    console.log(`⏭️  [SKIP_CHAIN] Would send batch (${batch.length}) → ${opDid}`);
+    return;
+  }
+
   // Queue mein daalo — ek ke baad ek TX bhejega, conflict nahi hoga
   nonceLock = nonceLock.then(async () => {
     const MAX_RETRIES = 5;
@@ -72,7 +77,7 @@ export async function sendBatchToBlockchain(opDid, devDid, batch) {
   return nonceLock;
 }
 
-export async function runOperation(opAlias, devAlias, action, queueFile) {
+export async function runOperation(opAlias, devAlias, action) {
   const operator = await agent.didManagerGetByAlias({ alias: opAlias });
   const device   = await agent.didManagerGetByAlias({ alias: devAlias });
   const admin    = await agent.didManagerGetByAlias({ alias: 'factory-admin' });
@@ -100,10 +105,13 @@ export async function runOperation(opAlias, devAlias, action, queueFile) {
 
   console.log(`📊 Buffer ${buffer.length}/${BATCH_SIZE} → ${opAlias}`);
 
+  // Pipeline Stage 1 -> Stage 2 handoff: send the ready batch straight over
+  // the Node IPC channel to whichever process is listening (the parent
+  // relays it to worker_tx.js). No shared file, no polling.
   if (buffer.length >= BATCH_SIZE) {
-    const queue = JSON.parse(fs.readFileSync(queueFile, 'utf8'));
-    queue.push({ ready: true, opDid: operator.did, devDid: device.did, batch: [...buffer] });
-    fs.writeFileSync(queueFile, JSON.stringify(queue));
+    if (process.send) {
+      process.send({ type: 'batch', opDid: operator.did, devDid: device.did, batch: [...buffer] });
+    }
     buffers.set(key, []);
   }
 }
